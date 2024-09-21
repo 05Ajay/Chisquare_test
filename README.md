@@ -1,16 +1,24 @@
 CHI-SQUARE TEST
+
 Association between Device Type and Customer Satisfaction
 Background:
 Mizzare Corporation has collected data on customer satisfaction levels for two types of smart home devices: Smart Thermostats and Smart Lights. They want to determine if there's a significant association between the type of device purchased and the customer's satisfaction level.
 Data Provided:
 The data is summarized in a contingency table showing the counts of customers in each satisfaction level for both types of devices:
 Satisfaction	Smart Thermostat	Smart Light	Total
+
 Very Satisfied	50	70	120
+
 Satisfied	80	100	180
+
 Neutral	60	90	150
+
 Unsatisfied	30	50	80
+
 Very Unsatisfied	20	50	70
+
 Total	240	360	600
+
 Objective:
 To use the Chi-Square test for independence to determine if there's a significant association between the type of smart home device purchased (Smart Thermostats vs. Smart Lights) and the customer satisfaction level.
 Assignment Tasks:
@@ -23,6 +31,7 @@ Compare the Chi-Square statistic with the critical value to decide whether to re
 
 
 HYPOTHESIS TESTING
+
 Background:
 Bombay hospitality Ltd. operates a franchise model for producing exotic Norwegian dinners throughout New England. The operating cost for a franchise in a week (W) is given by the equation W = $1,000 + $5X, where X represents the number of units produced in a week. Recent feedback from restaurant owners suggests that this cost model may no longer be accurate, as their observed weekly operating costs are higher.
 Objective:
